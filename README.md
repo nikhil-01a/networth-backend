@@ -63,4 +63,4 @@ By starting early and staying disciplined, NetWorth will guide you in building w
 If you’d like to contribute to NetWorth, feel free to open an issue or submit a pull request. We welcome improvements, bug fixes, and feature enhancements.
 
 ## Contact
-For any questions, feel free to reach out at [your-email@example.com].
+For any questions, feel free to reach out at [nikhilkumargus@gmail.com].
